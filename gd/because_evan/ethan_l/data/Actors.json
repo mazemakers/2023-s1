@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":99,"maxLevel":99,"name":"Reid","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"SF_Actor2_2","characterIndex":5,"characterName":"People2","classId":4,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"People2","traits":[],"initialLevel":99,"maxLevel":99,"name":"Jocylen","nickname":"herman","note":"","profile":""},
+{"id":3,"battlerName":"SF_Actor3_8","characterIndex":0,"characterName":"SF_People1","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"SF_People1","traits":[],"initialLevel":97,"maxLevel":99,"name":"Drake","nickname":"dre","note":"","profile":""},
+{"id":4,"battlerName":"Actor3_5","characterIndex":5,"characterName":"People2","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"People2","traits":[],"initialLevel":99,"maxLevel":99,"name":"Emma","nickname":"Emmai","note":"","profile":""},
+{"id":5,"battlerName":"SF_Actor1_8","characterIndex":2,"characterName":"People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Asei","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor1_7","characterIndex":2,"characterName":"People3","classId":3,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"People3","traits":[],"initialLevel":99,"maxLevel":99,"name":"Kousei","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Actor2_4","characterIndex":7,"characterName":"People4","classId":4,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"People4","traits":[],"initialLevel":99,"maxLevel":99,"name":"Einon","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_7","characterIndex":0,"characterName":"SF_People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"SF_People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Danny","nickname":"","note":"","profile":""}
+]

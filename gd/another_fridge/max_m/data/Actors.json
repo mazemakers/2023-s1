@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"John battler","characterIndex":0,"characterName":"John walking","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"John face","traits":[],"initialLevel":1,"maxLevel":99,"name":"John","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Jerry Battler","characterIndex":0,"characterName":"Jerry Walking","classId":8,"equips":[43,0,0,0,0],"faceIndex":0,"faceName":"Jerry Face","traits":[],"initialLevel":4,"maxLevel":56,"name":"Jerry","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Mom Battler","characterIndex":0,"characterName":"Mom walking","classId":2,"equips":[31,0,65,5,0],"faceIndex":0,"faceName":"Mom Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mom","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"F.O.O.T. Agent  battling","characterIndex":0,"characterName":"F.O.O.T. Agent walking","classId":5,"equips":[31,0,0,5,0],"faceIndex":0,"faceName":"F.O.O.T. Agent face","traits":[],"initialLevel":1,"maxLevel":99,"name":"F.O.O.T. Agent","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":2,"characterName":"SF_Monster","classId":6,"equips":[5,43,70,24,89],"faceIndex":2,"faceName":"SF_Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shronkie","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kasey","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":3,"characterName":"Evil","classId":7,"equips":[41,0,57,13,94],"faceIndex":3,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eih","nickname":"eli","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roza","nickname":"","note":"","profile":""}
+]
